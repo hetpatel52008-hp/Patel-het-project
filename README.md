@@ -1,2 +1,2 @@
-# Patel-het-project
-password checker
+# password checker
+
